@@ -2,19 +2,19 @@
 
 ## Description
 ```
-This project is to build a blog site where people can publish blog posts and comment on other people's posts. 
+This project is to build a blog site. Make sure to initialize the database by imputing "npm i" prior to running code. 
 ```
 
 ## Requirement Completed:
-- 
-- 
-- Deployed to Heroku
+- Able to create a user
+- Post a comment
+- Logout of user and not be able to create comments
 
 ## Depolyed Viewing
 
-Video link: https://drive.google.com/file/d/1NVVAIQ9yu6ZnCfkA5qMEDDAjzP5b38mr/view
+Deployed link: https://kawaikimono.github.io/Lesson-14-Tech-Blog/
 
-GitHub Link: https://github.com/Kawaikimono/Lesson-12-Challenge-Employee-Tracker.git
+GitHub Link: https://github.com/Kawaikimono/Lesson-14-Tech-Blog
 
 ## Credits
  To Joe and edX Boot Camps LLC for providing material.
