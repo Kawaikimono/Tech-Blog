@@ -12,7 +12,7 @@ This project is to build a blog site. Make sure to initialize the database by im
 
 ## Depolyed Viewing
 
-Deployed link: https://kawaikimono.github.io/Lesson-14-Tech-Blog/
+Deployed link: https://gator-blog-me.herokuapp.com/
 
 GitHub Link: https://github.com/Kawaikimono/Lesson-14-Tech-Blog
 
