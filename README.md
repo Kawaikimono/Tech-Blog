@@ -1,9 +1,8 @@
-# Lesson-14-Tech-Blog
+# Tech-Blog
 
 ## Description
-```
-This project is to build a blog site. \n Make sure to initialize the database by imputing "npm i" prior to running code. 
-```
+
+This project is to build a blog site. Make sure to initialize the database by imputing "npm i" prior to running code. 
 
 ## Requirement Completed:
 - Able to create a user
@@ -14,7 +13,7 @@ This project is to build a blog site. \n Make sure to initialize the database by
 
 Deployed link: https://gator-blog-me.herokuapp.com/
 
-GitHub Link: https://github.com/Kawaikimono/Lesson-14-Tech-Blog
+GitHub Link: https://github.com/Kawaikimono/Tech-Blog
 
 ## Credits
  To Joe and edX Boot Camps LLC for providing material.
