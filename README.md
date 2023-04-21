@@ -2,7 +2,7 @@
 
 ## Description
 ```
-This project is to build a blog site. Make sure to initialize the database by imputing "npm i" prior to running code. 
+This project is to build a blog site. \n Make sure to initialize the database by imputing "npm i" prior to running code. 
 ```
 
 ## Requirement Completed:
